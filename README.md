@@ -4,7 +4,7 @@ The completion of this project won't be possible without my group mates. I want 
 This answer is NOT perfect.
 
 # File Description
-ProjectLab: contains my answer
+ProjectLab: contains the answer
 
 UMLs: contains the UMLs of the project case
 
